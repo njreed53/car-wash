@@ -1,6 +1,6 @@
 # Automatic Car Wash
 
-A PLC simulation of an automatic car wash built in RSLogix 500 and tested with Emulate 500. Uses state machine sequencing, safety interlocks, timers/counters, and analog signal handling—all in ladder logic.
+A PLC simulation of an automatic car wash built in RSLogix 500 and tested with Emulate 500. Uses state machine sequencing, safety interlocks, timers/counters, and analog signal handling.
 
 **Important:** This is a simulation. All I/O uses internal files so RSLogix Emulate works without real hardware.
 
